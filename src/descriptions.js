@@ -15,10 +15,10 @@ export const info = {
       <a className={tw(`flex px-1`)} href="https://vk.com/prailip">
         <img src="https://cdn-icons-png.flaticon.com/32/145/145813.png" />
       </a>
-      <a className={tw(`flex px-1`)} href="t.me/molotka">
+      <a className={tw(`flex px-1`)} href="https://t.me/molotka">
         <img src="https://cdn-icons-png.flaticon.com/32/2111/2111646.png" />
       </a>
-      <a className={tw(`flex px-1`)} href="https://github.com/vskorop">
+      <a className={tw(`flex px-1`)} href="https://www.instagram.com/pirateslim">
         <img src="https://cdn-icons-png.flaticon.com/32/174/174855.png" />
       </a>
     </div>
